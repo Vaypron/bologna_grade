@@ -4,7 +4,7 @@ Calculate your current grade, as well as  the best and worst grade you can still
 
 ## Why would I need a tool for that?
 
-Most universities have a site where you can check your grades. Unfortunately many time these system are not up to date or do not even show your final grade.
+Most universities have a site where you can check your grades. Unfortunately many times these systems are not up to date or do not even show your final grade.
 They are also lackin' a feel for how much you can still improve.
 
 ## How to use
